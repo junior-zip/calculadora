@@ -39,9 +39,9 @@ Se estiver a fim de ajudar e aprimorar usando o pull request, fique a vontade.
 
 
 
-<div align="center">
+<div >
 <a href="https://github.com/junior-zip" target="_blank" >
-<img align="right" src="https://cdn.discordapp.com/attachments/532009897257074688/1058452644466794657/ezgif.com-gif-maker.gif" height="500"></a>
+<img align="center" src="https://cdn.discordapp.com/attachments/532009897257074688/1058452644466794657/ezgif.com-gif-maker.gif" height="500"></a>
 </div>
 
 
